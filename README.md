@@ -8,7 +8,7 @@
   <a href="https://github.com/tdishant?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/tdishant?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tdishant&label=Profile%20views&color=0e75b6" alt="tdishant" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tdishant&label=Profile%20views&color=0e75b6style=for-the-badge" alt="tdishant" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdishant" alt="tdishant"/></a> </p>
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
