@@ -13,11 +13,11 @@
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 
-- 🎓 I am persuing my B.Tech in Computer Engineering from Pandit Deendayal Energy University (PDEU)
+- 🎓 I am currently pursuing my B.Tech in Computer Engineering from Pandit Deendayal Energy University (PDEU)
 
-- 🌱 I’m currently practising **Machine Learning & Web Development**
+- 🌱 I’m enthusiastic about **Machine Learning & Web Development**
 
-- 📫 How to reach me **tdishant27@gmail.com**
+- 📫 My Gmail **tdishant27@gmail.com**
 
 - 📄 My Resume [https://drive.google.com/file/d/1GObJqkHUz0tI_nDDDLOYT_R9sbAz55dU/view?usp=sharing](https://drive.google.com/file/d/1GObJqkHUz0tI_nDDDLOYT_R9sbAz55dU/view?usp=sharing)
 
@@ -26,7 +26,7 @@
 |<img align=center alt="tdishant's streak" src="https://github-readme-stats.vercel.app/api?username=tdishant&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=tdishant&theme=dark"/>|
 |---|---|
 
-<h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
+<h1>My Arsenal<img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
 
 ### 👨‍💻 Programming languages
 
