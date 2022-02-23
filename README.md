@@ -64,6 +64,7 @@
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/google%20sheets-20232A?style=for-the-badge&logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code-E34F26?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-00599C?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/postman-E34F26?style=for-the-badge&logo=postman&logoColor=white"></a>
 </p>
 
 ### 🗄️ Hosting Services
