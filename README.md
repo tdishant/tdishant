@@ -17,8 +17,6 @@
 
 - 🌱 I’m enthusiastic about **Machine Learning & Web Development**
 
-- 📫 My Gmail **tdishant27@gmail.com**
-
 - 📄 My Resume [https://drive.google.com/file/d/1GObJqkHUz0tI_nDDDLOYT_R9sbAz55dU/view?usp=sharing](https://drive.google.com/file/d/1GObJqkHUz0tI_nDDDLOYT_R9sbAz55dU/view?usp=sharing)
 
 <h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
